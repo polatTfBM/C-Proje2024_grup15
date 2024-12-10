@@ -1,1 +1,8 @@
+Akış diyagramı link:
+https://miro.com/welcomeonboard/dXVQVEtrK0U4eExOQUZvZ25JSU5SQXg4Ym4rdGtPbnk2cU1qMmRnbW5yU1ZPZEU1UkU5UFI5Zm1hazB5ZjZ1YWprZUtRVGxINWF5MFk0a3IvZlFhWm05OFFCU0FldTh6VFE5RktsNzVrWE8rbEdZd3EvMVdMUVpYWWlwZWQrYlchZQ==?share_link_id=531873887867
 
+
+
+Polat Ashyrov 22181616412;
+İlkin Kala 23181616414;
+İbrahim Halil Lutin 22181617022
