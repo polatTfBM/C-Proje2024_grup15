@@ -1,8 +1,6 @@
 
 Polat Ashyrov 22181616412;
-
 İlkin Kala 23181616414;
-
 İbrahim Halil Lutin 22181617022
 
 
