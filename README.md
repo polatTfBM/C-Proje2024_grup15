@@ -1,4 +1,4 @@
-# C-Proje2024_grup15
+# C-Proje2024_Grup_15
 #include <stdio.h>
 #include <ctype.h> // toupper fonksiyonu için
 
