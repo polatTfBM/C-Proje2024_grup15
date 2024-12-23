@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h> // toupper fonksiyonunu kullanmak için gerekli
 
-int tuşSayisi(char harf);// Okunur olması için protatip tanımlama
+int tusSayisi(char harf);// Okunur olması için protatip tanımlama
 
 int main() {
     char karakter;
@@ -27,7 +27,7 @@ int main() {
     // Dosyayı karakter karakter oku
     while ((karakter = fgetc(dosya)) != EOF) {
         karakter = toupper(karakter); // Karakteri büyük harfe çevir
-        toplamTus += tuşSayisi(karakter); // Her karakter için gerekli tuş basım sayısını topla
+        toplamTus += tusSayisi(karakter); // Her karakter için gerekli tuş basım sayısını topla
     }
 
     fclose(dosya); // Dosyayı kapat
@@ -50,7 +50,7 @@ int main() {
 }
 
 // Verilen bir karakter için kaç tuşlama gerektiğini hesaplayan fonksiyon
-int tuşSayisi(char harf) {
+int tusSayisi(char harf) {
     switch(harf) {
         case 'A':case 'D': case 'G': case 'J': case 'M': case 'P': case 'T': case 'W': return 1; // Birinci grup harfler: 1 tuş basımı
         case 'B': case 'E': case 'H': case 'K': case 'N': case 'Q': case 'U': case 'X': case ',': return 2; // İkinci grup harfler: 2 tuş basımı
